@@ -41,12 +41,12 @@ I'm always looking to expand my skillset and stay up-to-date with the latest ind
 
 I'm always open to discussing new opportunities or collaborations. Feel free to reach out via:
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- [Twitter](https://twitter.com/yourtwitter)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/kumar-anubhav2510/)
+- [Twitter](https://twitter.com)
+- [Email](kumaranubhav2510@gmail.com)
 
 Thanks for stopping by!
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
+
